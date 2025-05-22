@@ -42,10 +42,6 @@ This is the official repository of the paper "Think, Scale, Execute:A Multiscale
 <img src="./img/result.png" width="100%" alt="thinking_template" />
 </p>
 
-Performance on BFCL (last updated April 25, 2025), with all metrics calculated using the official script. The best result within each category is highlighted in bold.
-
-
-
 
 <p align="center">
 <img src="./img/code.png" width="100%" alt="thinking_template" />
