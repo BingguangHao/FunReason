@@ -1,6 +1,6 @@
 # Think, Scale, Execute: A Multiscale Loss Approach for Enhanced LLM Function Calling
 
-This is the official repository of the project FunReason, repository for paper "Think, Scale, Execute:A Multiscale Loss Approach for Enhanced LLM Function Calling"
+This is the official repository of the paper "Think, Scale, Execute:A Multiscale Loss Approach for Enhanced LLM Function Calling"
 
 > [!IMPORTANT]
 > - **We will release all the code and training dataset in this repository, waiting the confidential review of Ant Group.**
