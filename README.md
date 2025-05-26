@@ -1,9 +1,11 @@
-# Think, Scale, Execute: A Multiscale Loss Approach for Enhanced LLM Function Calling
+# FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement
 
-This is the official repository of the paper "Think, Scale, Execute:A Multiscale Loss Approach for Enhanced LLM Function Calling"
+<p align="center">
+         &nbsp&nbsp📊 <a href="https://huggingface.co/Bingguang/FunReason">Dataset(Coming)</a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/Bingguang/FunReason">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://huggingface.co/Bingguang/FunReason">Paper(Coming)</a> &nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://huggingface.co/Bingguang/FunReason">Blog(Coming)</a> &nbsp&nbsp ｜ &nbsp&nbsp📖 <a href="https://github.com/BingguangHao/FunReason">Github</a>
+</p>
 
 > [!IMPORTANT]
-> - **We will release all the code and training dataset in this repository, waiting the confidential review of Ant Group.**
+> - **We will release all the code, training dataset and model weight, waiting the confidential review of Ant Group.**
 > 
 > - **Please give a ⭐️ to follow the update which is also an incentive for us.**
 
@@ -47,13 +49,11 @@ This is the official repository of the paper "Think, Scale, Execute:A Multiscale
 <img src="./img/code.png" width="100%" alt="thinking_template" />
 </p>
 
-Performance of SFT and FunReason models on HumanEval and MBPP (including their HumanEval+ and MBPP+) compared with Qwen2.5-Coder-7B-Inst.
-
 
 ## Citation
 ```md
 @article{FunReason,
-  title={Think, Scale, Execute: A Multiscale Loss Approach for Enhanced LLM Function Calling},
+  title={FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement},
   author={Bingguang Hao, Maolin Wang, Zengzhuang Xu, Cunyin Peng, Yicheng Chen, Xiangyu Zhao, Jinjie Gu, Chenyi Zhuang}
 }
 ```
