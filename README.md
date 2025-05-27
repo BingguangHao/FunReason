@@ -1,7 +1,7 @@
 # FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement
 
 <p align="center">
-         &nbsp&nbsp📊 <a href="https://huggingface.co/Bingguang/FunReason">Dataset(Coming)</a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/Bingguang/FunReason">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://huggingface.co/Bingguang/FunReason">Paper(Coming)</a> &nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://huggingface.co/Bingguang/FunReason">Blog(Coming)</a> &nbsp&nbsp ｜ &nbsp&nbsp📖 <a href="https://github.com/BingguangHao/FunReason">Github</a>
+         &nbsp&nbsp📊 <a href="https://huggingface.co/Bingguang/FunReason">Dataset(Coming)</a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/Bingguang/FunReason">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://arxiv.org/pdf/2505.20192">Paper</a> &nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://huggingface.co/Bingguang/FunReason">Blog(Coming)</a> &nbsp&nbsp ｜ &nbsp&nbsp📖 <a href="https://github.com/BingguangHao/FunReason">Github</a>
 </p>
 
 > [!IMPORTANT]
@@ -54,6 +54,8 @@
 ```md
 @article{FunReason,
   title={FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement},
-  author={Bingguang Hao, Maolin Wang, Zengzhuang Xu, Cunyin Peng, Yicheng Chen, Xiangyu Zhao, Jinjie Gu, Chenyi Zhuang}
+  author={Bingguang Hao, Maolin Wang, Zengzhuang Xu, Cunyin Peng, Yicheng Chen, Xiangyu Zhao, Jinjie Gu, Chenyi Zhuang},
+  journal={arXiv preprint arXiv:2505.20192},
+  year={2025}
 }
 ```
